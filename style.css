@@ -9,6 +9,11 @@ body {
   font-family: Arial, sans-serif;
 }
 
+.imagem {
+  height: 260px;
+  border-radius: 10px;
+}
+
 p {
   line-height: 1.5;
 }
