@@ -9,7 +9,7 @@ const heartsArray = [];
 
 // Load heart image
 const heartImage = new Image();
-heartImage.src = 'heart.png'; // Use the local image
+heartImage.src = 'assets/heart.png'; // Use the local image
 
 // Heart class definition
 class Heart {
